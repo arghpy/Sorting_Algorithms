@@ -1,2 +1,3 @@
 # Sorting_Algorithms
-Different sorting algorithms in C
+
+[![Super-Linter](https://github.com/arghpy/Sorting_Algorithms/actions/workflows/manage_pull_requests.yaml/badge.svg)](https://github.com/marketplace/actions/super-linter)
