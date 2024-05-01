@@ -26,3 +26,4 @@ The program will ask the user for:
 
 After the algorithms perform, there will be displayed an average time of sorting for each algorithm.
 
+
