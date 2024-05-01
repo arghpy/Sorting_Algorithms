@@ -25,3 +25,4 @@ The program will ask the user for:
 - the number of tests: how many times should the sorting algorithm be run on the randomized array data
 
 After the algorithms perform, there will be displayed an average time of sorting for each algorithm.
+
