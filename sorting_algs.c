@@ -2,14 +2,14 @@
 #include <stdlib.h>
 #include <time.h>
 
-struct average{
+struct average {
     double time;
     double sum;
     int count;
 
 } bubble, selection, insertion, Merge, heap, radix;
 
-void randomize(int arr[],int size,int *seed);
+void randomize(int arr[], int size, int *seed);
 
 void swap(int *x, int *y);
 void copyArr(int input[], int output[], int size);
