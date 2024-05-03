@@ -13,7 +13,7 @@ It is entirely done in C and showcases the performance of:
 
 ## Compilation
 
-```
+```shell
 gcc sorting_algs.c -o sorting_algs
 ```
 
